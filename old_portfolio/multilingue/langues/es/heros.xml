@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<langue>
+	<titre>&lt;h1&gt;&lt;a href="index.php"&gt;Dota 2&lt;/a&gt;&lt;/h1&gt;</titre>
+	<heros>&lt;a href="heros.php" class="current menu"&gt;Héroes&lt;/a&gt;</heros>
+	<objets>&lt;a href="objets.php"&gt;Objectos&lt;/a&gt;</objets>
+	<description>&lt;p&gt;Los héroes son un elemento esencial de Dota 2, ya que el rumbo de la partida depende directamente de su impacto. Los jugadores se reparten en dos equipos de 5, y pueden elegir a un héroe desde el panel de selección. Todos los héroes tienen un estilo de juego que es resultado de sus Habilidades únicas y combinaciones de Atributos. A lo largo del juego los héroes acumularán Experiencia. Una vez que los héroes tienen suficiente experiencia, subirán de nivel, haciéndose más fuertes que antes y permitiéndoles subir nuevas habilidades. La mayoría de los héroes tienen un Rol diferente que define como pueden afectar a la batalla, aunque muchos héroes tienen dos o más de estos roles. Actualmente, 110 de 112 héroes de Dota 1 son jugables en el cliente de Dota 2.&lt;/p&gt;</description>
+</langue>

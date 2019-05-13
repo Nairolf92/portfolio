@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<langue>
+	<titre>&lt;h1&gt;&lt;a href="index.php" class="current"&gt;Dota 2&lt;/a&gt;&lt;/h1&gt;</titre>
+	<heros>&lt;a href="heros.php" class="menu"&gt;Héros&lt;/a&gt;</heros>
+	<objets>&lt;a href="objets.php"&gt;Objets&lt;/a&gt;</objets>
+	<description>&lt;p&gt;Dota 2 est un jeu vidéo de type arène de bataille en ligne multijoueur développé et édité par Valve Corporation avec l'aide de certains des créateurs du jeu d'origine : Defense of the Ancients, un mod de carte personnalisée pour le jeu de stratégie en temps réel Warcraft III: Reign of Chaos et son extension Warcraft III: The Frozen Throne. Le jeu est sorti en juillet 2013 sur Microsoft Windows, OS X et Linux mettant fin à une phase bêta commencée en 2011, il est disponible exclusivement sur la plateforme de jeu en ligne Steam.
+
+Dota 2 se joue en matchs indépendants opposant deux équipes de cinq joueurs, chacune possédant une base située en coin de carte contenant un bâtiment appelé l'« Ancient », dont la destruction mène à la victoire de l'équipe ennemie. Chaque joueur contrôle un « Héros » et est amené à accumuler de l’expérience, gagner de l'or, s'équiper d'objets et combattre l'équipe ennemie pour parvenir à la victoire.
+
+Le développement de Dota 2 commence en 2009 lorsque Valve embauche IceFrog, programmeur principal de Defense of the Ancients. Le jeu reçoit de très bonnes critiques à sa sortie dues à son système de jeu gratifiant, sa production de qualité et sa fidélité au mod originel. Il fut néanmoins critiqué pour sa courbe d'apprentissage raide et sa communauté peu accueillante. C'est actuellement le jeu le plus joué sur Steam, avec des pics quotidiens de plus de 900 000 joueurs connectés en même temps 2, ainsi que plus de 12 000 000 de joueurs mensuels 3.&lt;/p&gt;
+&lt;p property="created"&gt;Crée le : 2011-09-14&lt;/p&gt;
+&lt;p property="creator"&gt;Créateur : wikipedia.org&lt;/p&gt;</description>
+</langue>

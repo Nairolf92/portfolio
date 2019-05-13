@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<langue>
+	<titre>&lt;h1&gt;&lt;a href="index.php" class="current"&gt;Dota 2&lt;/a&gt;&lt;/h1&gt;</titre>
+	<heros>&lt;a href="heros.php" class="menu"&gt;陣營英雄&lt;/a&gt;</heros>
+	<objets>&lt;a href="objets.php"&gt;裝備與物品&lt;/a&gt;</objets>
+	<description>&lt;p&gt;《DOTA 2》是一款由Valve及《魔獸爭霸III》DotA模組研發團隊现在的核心人物IceFrog（冰蛙）所共同開發的電子竞技遊戲，在中国由完美世界代理，翻译为《刀塔》。DOTA 2從原本在《魔獸爭霸III：寒冰霸權》的熱門模組DotA獨立出來，摆脱了《魔兽争霸III》固有的一些技术限制，成为独立运行的一款全新游戏。但是其基本框架和细节，力求做到对DotA的完美继承，在游戏性更新时DotA与DOTA 2也仍然保持同步。
+2011年8月17日至21日，Valve在德国科隆举办了第一届DOTA2国际邀请赛（The International），在当时便开出了一百六十万美元的奖金，打破了电竞史上的最高奖金记录。此后，每年一届的国际邀请赛成为DOTA 2的官方赛事和荣誉象征，最近一届国际邀请赛(The International 5)于2015年8月3日至8日在美国西雅图钥匙球馆举行，总奖金更是高达18,429,613美元。&lt;/p&gt;
+&lt;p property="created"&gt;创建 : 2011-09-14&lt;/p&gt;
+&lt;p property="creator"&gt;创造者 : wikipedia.org&lt;/p&gt;</description>
+</langue>

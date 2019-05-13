@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<langue>
+	<titre>&lt;h1&gt;&lt;a href="index.php"&gt;Dota 2&lt;/a&gt;&lt;/h1&gt;</titre>
+	<heros>&lt;a href="heros.php" class="current menu"&gt;陣營英雄&lt;/a&gt;</heros>
+	<objets>&lt;a href="objets.php"&gt;裝備與物品&lt;/a&gt;</objets>
+	<description>&lt;p&gt;英雄 可說是 Dota 2 之中最重要的一環，他們的表現是影響遊戲結果最直接的原因。玩家們在遊戲開始之前會被分為五人一組，總共兩組負責領導不同的陣營。每一個玩家都可以遵照遊戲模式的規則選取自己喜好的英雄進行遊戲。任何一位 DotA 2 中的英雄都擁有他們自己獨一無二的技能和屬性能力。在遊戲中途英雄們會經由不同的管道累積經驗值。當一位英雄累積足夠的經驗之後就會自動提升等級，給與玩家學習或精進技能的機會同時增強英雄的體能素質。英雄能夠表現出一些專長，使他們可以在某些方向上強力協助聯盟勝利。大多數的英雄都有一點特別突出的專長，也有些英雄能夠同時兼顧兩到三種不同的領域。&lt;/p&gt;</description>
+</langue>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<langue>
+	<titre>&lt;h1&gt;&lt;a href="index.php"&gt;Dota 2&lt;/a&gt;&lt;/h1&gt;</titre>
+	<heros>&lt;a href="heros.php" class="menu"&gt;Heroes&lt;/a&gt;</heros>
+	<objets>&lt;a href="objets.php" class="current"&gt;Objets&lt;/a&gt;</objets>
+	<description>&lt;p&gt;Items are objects sold by shops or dropped from Roshan that provide an ability, bonus, or other function not tied to a particular Hero (the only exception being Aghanim's Scepter, which changes certain Hero abilities). They come in a multitude of forms and types, and as such can be very different from one item to the next.
+Items take up space in a Hero's Inventory, meaning only six can be carried at one time. If a hero buys another item while their inventory is full, it will automatically go to their stash - which can also hold six items. If a hero buys an item with both their inventory and their stash full, the item will be dropped on the ground in their fountain.
+Recipe items will automatically remove their components from a Hero's Inventory and Stash when they are assembled. Because of this, strategy and thought is required in the order and selection of items to purchase.
+Some items will provide no effect for some Heroes if they have passive abilities that provide the same or similar effect. For example, most heroes with a bash ability cannot use the passive ability on Skull Basher.
+Heroes cannot use items purchased by other heroes, with a handful of exceptions. See Item Sharing for details. In addition, some items can be disassembled. See Disassemble for details.
+Most items may be sold back to vendors for 100% of the gold spent either within 10 seconds after purchasing or until the item's active ability (if it has one) was used the first time. After ten seconds have passed items may be sold back for only 50% of its price tag. Some items cannot be sold, for example, Gem of True Sight, and for some Heroes, Aghanim's Scepter.&lt;/p&gt;</description>
+</langue>

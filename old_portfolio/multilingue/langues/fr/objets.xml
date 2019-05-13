@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<langue>
+	<titre>&lt;h1&gt;&lt;a href="index.php"&gt;Dota 2&lt;/a&gt;&lt;/h1&gt;</titre>
+	<heros>&lt;a href="heros.php" class="menu"&gt;Héros&lt;/a&gt;</heros>
+	<objets>&lt;a href="objets.php" class="current"&gt;Objets&lt;/a&gt;</objets>
+	<description>&lt;p&gt;Au cours de la partie, les joueurs accumulent de l'or ; en éliminant des creeps (il faut alors porter le coup fatal), en tuant des ennemis ou en détruisant les structures adverses. Cet or permet au joueur d'acquérir des objets afin de donner à son héros de nouvelles capacités, d'augmenter ses attributs, ou influencer ses caractéristiques.
+L'inventaire des héros peut occuper six objets. Certains peuvent être combinés entre eux afin de former un nouvel objet plus puissant ou versatile.
+Certains de ces objets sont consommables : ils sont détruits lors de leur utilisation. Par exemple, consommer une "Clarity", régènere le mana du héros. Il est également possible de revendre les objets déjà acquis pour la moitié de leur coût initial, ou bien, dans certains cas, de les détruire.
+Les joueurs peuvent acheter des objets dans les différentes échoppes présents dans la carte ; elles ne proposent pas toutes le même catalogue..&lt;/p&gt;</description>
+</langue>

@@ -1,0 +1,50 @@
+@font-face{
+	font-family: 'Pokemon';
+	src: url('../pkm.ttf');
+}
+body {
+	height: 500px;
+	background-color : black;
+	font-family : Arial;
+	background: url("../img/fond.jpg") no-repeat;
+	background-size: cover;
+}
+h1{
+	position: absolute;
+	left: 40%;
+	top: -4%;
+	color: white;
+	letter-spacing: 0.1em;
+	font-size: 2em;
+	font-family: Pokemon;
+	text-align: center;
+	text-shadow: 5px 5px 5px black;
+	margin: 0;
+}
+canvas {
+	position : relative;
+	display : block;
+	margin : 0 auto;
+}
+p{
+	color: white;
+	font-family: Pokemon;
+	letter-spacing: 0.1em;
+	font-size: 2em;
+	text-align: center;
+	text-shadow: 5px 5px 5px black;
+}
+img{
+	width: 200px;
+	height: 200px;
+}
+#div1{
+	position: absolute;
+	left: 85%;
+	top: 40%;
+}
+#div2{
+	position: absolute;
+	left: 5%;
+	top: 40%;
+}
