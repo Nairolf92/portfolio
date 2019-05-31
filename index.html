@@ -37,6 +37,14 @@
 <link href="assets/fonts/font-awesome-4.7.0/css/font-awesome.min.css" rel="stylesheet">
 <link href="assets/flag-icon-css-master/css/flag-icon.min.css" rel="stylesheet">
 
+<!--<script src="https://www.google.com/recaptcha/api.js" async defer></script>-->
+
+<!--<script>-->
+<!--    function onSubmit(token) {-->
+<!--        alert("foo");-->
+<!--    }-->
+<!--</script>-->
+
 </head>
 
 <body class="header-horizontal">
@@ -55,17 +63,20 @@
         <div class="bg-image animated infinite zooming visible" style="background-image: url(&quot;assets/img/photos/it-bg01.jpg&quot;);"><img alt="..." src="assets/img/photos/it-bg01.jpg" style="display: none;"></div>
         
         <!-- Middle -->
-        <div class="container container-wide v-bottom padding-v-80">
+        <div class="container container-wide v-bottom padding-v-80 g-recaptcha"
+             data-sitekey="6LfQj6YUAAAAAIFpWS-h69Q0LTUtrgigb8XEaqBb"
+             data-callback="onSubmit"
+             data-size="invisible">
             <img alt="florian kelnerowski" class="img-circle margin-b-30" src="assets/img/photos/flo230.jpg">
             <h1 class="text-lg margin-b-10"><strong>Florian Kelnerowski</strong></h1>
             <h5 class="text-tertiary margin-b-40">Full-stack developper</h5>
             <span>
-                <a class="btn btn-us" href="assets/cv/CV_KELNEROWSKI_Florian_US.pdf" target="_blank">
+                <a id="cv_us" class="btn btn-us" href="assets/cv/CV_KELNEROWSKI_Florian_US.pdf" target="_blank">
                     <span class="header-github"><i class="flag-icon flag-icon-us header-icon-github"></i>Download my resume</span>
                 </a>
             </span>
             <span data-target="local-scroll">
-                <a class="btn" href="assets/cv/CV_KELNEROWSKI_Florian_FR.pdf" target="_blank">
+                <a id="cv_fr" class="btn" href="assets/cv/CV_KELNEROWSKI_Florian_FR.pdf" target="_blank">
                     <span class="header-github"><i class="flag-icon flag-icon-fr header-icon-github"></i>Téléchargez mon CV</span>
                 </a>
             </span>
@@ -161,16 +172,16 @@
                                     - <strong>Development of an Java API using HAPI-FHIR</strong> (Fast Healthcare Interoperability Resources)<br>
                                     The purpose of the project was to make available sensitive health data of the patients. <br>
                                     For example, the web-service delivers the PDF files of medical reports to the patients. <br>
-                                    It is actually used inside the <a href="https://monaphp.fr" class="text-blue">Portal Patient</a>, into the module "consult your healthcare documents"
+                                    It is used since 2018 inside the <a href="https://monaphp.fr" class="text-blue">Portal Patient</a>, into the module "consult your healthcare documents"
                                 </span>
                                 <span class="event-description">
                                     - <strong>Total overhaul of <a href="https://cme.aphp.fr" class="text-blue">cme.aphp.fr</a></strong><br>
-                                    Software migration from Drupal 7 to Drupal 8 <br>
-                                    Architectural redesign using Docker
+                                    Software migration from Drupal 7 to Drupal 8,installation of different modules(SEO,theming...) <br>
+                                    Design,realization and implementation of an architecture using Docker with Nginx, Varnish, Redis, PHP...
                                 </span>
                                 <span class="event-description">
                                     <strong>- Comparative analysis about API-Management software</strong><br>
-                                    Installation, test and analysis of Kong (plus Konga) and Gravitee software
+                                    Installation,test and analysis of software to find which is the best one fulfilling AP-HP’s needs.
                                 </span>
                                 <span class="event-description">
                                     - <strong>Creation, configuration and integration of a responsive newsletter for Drupal 7</strong> <br>
@@ -192,7 +203,7 @@
                             </div>
                             <!-- Single event -->
                             <div class="timeline-event te-primary">
-                                <span class="event-date">Mai à Août 2016</span>
+                                <span class="event-date">May to August 2016</span>
                                 <span class="event-name"><strong>Web developper</strong> - Internship</span>
                                 <span class="name">Things & Co - Paris XI</span>
                                 <span class="event-description">- Development of a back-office using CodeIgniter</span>
@@ -347,6 +358,16 @@
 </footer>
 
 </div>
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-141191631-1"></script>
+<script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'UA-141191631-1');
+</script>
 
 <!-- Ajax Wrapper & Loader -->
 <div id="ajax-modal"></div>
